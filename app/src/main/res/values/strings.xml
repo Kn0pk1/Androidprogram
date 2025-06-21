@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Android.program</string>
+    
+    <!-- Приветственный экран -->
+    <string name="headingwelc">Пожалуй, лучший фитнес трекер в ДВФУ</string>
+    <string name="subheadingw">Созданный студентами</string>
+    <string name="btn_get_started">Начать</string>
+    <string name="privacy_policy_text">Нажимая на кнопку, вы соглашаетесь с политикой конфиденциальности и принимаете пользовательское соглашение.</string>
+    <string name="already_have_account_welcome">Уже есть аккаунт?</string>
+    
+    <!-- Экран регистрации -->
+    <string name="registration_title">Регистрация</string>
+    <string name="login_hint">Логин</string>
+    <string name="name_or_nickname_hint">Имя или никнейм</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Повторите пароль</string>
+    <string name="gender_title">Пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="gender_other">Другое</string>
+    <string name="btn_register">Зарегистрироваться</string>
+    <string name="privacy_policy">политикой конфиденциальности</string>
+    <string name="user_agreement">пользовательское соглашение</string>
+    
+    <!-- Экран входа -->
+    <string name="login_title">Вход</string>
+    <string name="btn_login">Войти</string>
+    <string name="bicycles_image">Изображение велосипедистов</string>
+    <string name="title_activity">Активность</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_my_activity">Моя</string>
+    <string name="title_users_activity">Пользователей</string>
+    <string name="training_time_title">Время потренить</string>
+    <string name="training_time_subtitle">Нажимай на кнопку ниже и начинаем трекать активность</string>
+    <string name="welcome_title">Пожалуй, лучший фитнес\nтрекер в ДВФУ</string>
+    <string name="welcome_subtitle">Созданный студентам 2-ого курса</string>
+    <string name="login_prompt">Уже есть аккаунт?</string>
+    
+    <!-- Профиль -->
+    <string name="profile_title">Профиль</string>
+    <string name="name_label">Имя:</string>
+    <string name="login_label">Логин:</string>
+    <string name="gender_label">Пол:</string>
+    <string name="registration_date_label">Дата регистрации:</string>
+    <string name="btn_logout">Выйти из аккаунта</string>
+    
+    <!-- Сообщения -->
+    <string name="registration_success">Регистрация успешна!</string>
+    <string name="login_success">Вход выполнен успешно!</string>
+    <string name="logout_success">Вы вышли из аккаунта</string>
+    <string name="user_exists_error">Пользователь с таким логином уже существует</string>
+    <string name="invalid_credentials">Неверный логин или пароль</string>
+    <string name="profile_load_error">Ошибка загрузки профиля</string>
+    <string name="change_password_error">Не удалось сменить пароль. Попробуйте еще раз.</string>
+    <string name="empty_activity_title">Время потренить</string>
+    <string name="empty_activity_subtitle">Нажимай на кнопку ниже и начинаем трекать активность</string>
+</resources>
